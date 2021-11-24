@@ -1,0 +1,9 @@
+{
+  "name": "@monsterlee/remax-subpackage-code-split-plugin",
+  "version": "1.0.0",
+  "description": "remax子包代码切分，让子包内引用的代码输出到子包内，不影响外面包代码体积",
+  "main": "index.js",
+  "repository": "https://github.com/lee88688/remax-subpackage-code-split-plugin.git",
+  "author": "Jimmie Lee <lee2py@gmail.com>",
+  "license": "MIT"
+}
