@@ -26,4 +26,4 @@ module.exports = {
 
 ## LICENSE
 
-[MIT](LICENSE)
+MIT
